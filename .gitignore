@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.exe
+ALEAPP_Signal/
+ALEAPP_Signal_Export/
+ALEAPP_Signal.zip
+SignalBackups/
+backup.json
+report.txt
