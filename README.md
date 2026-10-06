@@ -129,3 +129,7 @@ pyinstaller --onefile --name SignalBackup_zu_ALEAPP signal_backup_zu_aleapp.py
 ## Haftungsausschluss
 
 Das Tool ist für forensische Auswertungen im Rahmen rechtlich zulässiger Untersuchungen gedacht. Die Ergebnisse sind eine Rekonstruktion und sollten – wie jede Toolausgabe – gegen die Quelldaten (`backup.json`, `report.txt`) verifiziert werden. Nutzung auf eigene Verantwortung.
+
+## Lizenz
+
+Veröffentlicht unter der [MIT-Lizenz](LICENSE).
